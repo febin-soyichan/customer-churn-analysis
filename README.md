@@ -1,3 +1,3 @@
 # customer-churn-analysis
 
-- cleaned dataset
+- data cleaning
