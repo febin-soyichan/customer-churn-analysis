@@ -2,3 +2,4 @@
 
 - data cleaning
 - EDA
+- Data transformation
