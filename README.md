@@ -3,3 +3,4 @@
 - EDA
 - Data transformation
 - visualizaton
+- cleaning
